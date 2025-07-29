@@ -48,6 +48,8 @@ No se han usado librerías externas. El proyecto utiliza únicamente dependencia
 
 Formulario de ingreso de correo y contraseña.
 
+![Imagen de WhatsApp 2025-07-29 a las 00 48 14_7e490b39](https://github.com/user-attachments/assets/c129aa0d-e866-4eab-be56-5f23f6732a3c)
+
 **Pantalla de ingreso de datos:**
 
 ![Ingreso de datos](https://github.com/user-attachments/assets/370bf072-e46e-4c88-b2c0-c63922316e52)
