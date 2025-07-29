@@ -9,7 +9,7 @@ Una aplicación Android básica que implementa una pantalla de inicio de sesión
 | Nombre                            | Rol                                                                                   |
 |----------------------------------|----------------------------------------------------------------------------------------|
 | Josue Saul Lopez Trujillo        | 👨‍💻 Desarrollador responsable del funcionamiento interno.                             |
-| Melody Nathalie Mendoza Jiménez | 👩‍🎨 Encargada del diseño visual, experiencia de usuario e interfaces.                 |
+| **[Melody Nathalie Mendoza Jiménez](https://github.com/Melody-Mendoza)** | 👩‍🎨 Encargada del diseño visual, experiencia de usuario e interfaces.                 |
 
 ---
 
