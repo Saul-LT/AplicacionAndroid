@@ -185,3 +185,22 @@ Calculadora de tres calificaciones. Si alguna es ≤ 5, muestra "REPROBADO" en r
 4. Conecta tu dispositivo o inicia un emulador.
 
 5. Haz clic en Run (▶️) para compilar y ejecutar la app.
+
+----
+
+## Observaciones : 
+* La aplicación cumple con los objetivos de la Unidad 1 del curso, demostrando dominio de conceptos básicos como:
+
+   Manejo de múltiples actividades.
+
+   Validación de datos de entrada.
+
+   Interacción con elementos de la interfaz gráfica.
+
+* En futuras versiones, se podrían considerar mejoras como:
+
+   Uso de ViewModel o Fragments para una arquitectura más moderna.
+
+   Inclusión de pruebas automatizadas.
+
+   Almacenamiento de datos con SharedPreferences o bases de datos locales.
