@@ -48,8 +48,6 @@ No se han usado librerías externas. El proyecto utiliza únicamente dependencia
 
 Formulario de ingreso de correo y contraseña.
 
-![Pantalla de inicio](https://github.com/user-attachments/assets/d850c62f-d206-463b-b3f1-a8bb5632ddf2)
-
 **Pantalla de ingreso de datos:**
 
 ![Ingreso de datos](https://github.com/user-attachments/assets/370bf072-e46e-4c88-b2c0-c63922316e52)
